@@ -68,3 +68,8 @@ h1,h4{
   padding:20px;
   background-color: grey;
 }
+@media(max-width:767px){
+  h1{
+    margin-top: 130px;
+  }
+}
