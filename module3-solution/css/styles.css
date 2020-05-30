@@ -70,6 +70,12 @@ h1,h4{
 }
 @media(max-width:767px){
   h1{
+<<<<<<< HEAD
     margin-top: 130px;
   }
 }
+=======
+    margin-top:130px;
+  }
+}
+>>>>>>> 19d7ee879f7a090abd14333865f165d6830d1384
